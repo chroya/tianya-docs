@@ -295,6 +295,4 @@ https://c4l1xfli8z.feishu.cn/docx/X2PedT3AGon4nhxuLrmcwLwgnac
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jiji262/tianya-docs&type=Date)](https://star-history.com/#jiji262/tianya-docs&Date)
-
 
